@@ -1,18 +1,18 @@
 ## Purpose
-_Describe the problem or feature in addition to a link to the issues._
+<!--- _Describe the problem or feature in addition to a link to the issues._ -->
 
 closes: _Add github issue that originated this PR_
 
 ## Approach
-_How does this change address the problem?_
+<!--- _How does this change address the problem?_ -->
 
 #### Open Questions and Pre-Merge TODOs
-- [ ] Use github checklists. When solved, check the box and explain the answer.
+<!--- - [ ] Use github checklists. When solved, check the box and explain the answer. -->
 
 ## Learning
-_Describe the research stage_
+<!--- _Describe the research stage_ -->
 
-_Links to blog posts, patterns, libraries or addons used to solve this problem_
+<!--- _Links to blog posts, patterns, libraries or addons used to solve this problem_ -->
 
 
 ## Types of changes
